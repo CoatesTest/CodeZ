@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CodeZ/.vs/CodeZ
+/CodeZ/CodeZ/bin
+/CodeZ/CodeZ/obj/Debug
+/CodeZ/packages
