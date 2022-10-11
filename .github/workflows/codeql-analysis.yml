@@ -19,6 +19,8 @@ on:
     branches: [ "main" ]
   schedule:
     - cron: '43 0 * * 5'
+  repository_dispatch:
+    types: [test_result]
 
 jobs:
   analyze:
